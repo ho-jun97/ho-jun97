@@ -1,5 +1,12 @@
 
- ### _**<p align = "center">✨Hi there 👋</p>**_
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=JangHoJun%20&fontSize=70)
+
+<hr/>
+
+<div align="center">
+
+## 🚀 About me 
+<p>안녕하세요. 웹 백엔드 개발자의 꿈을 가지고 있는 장호준입니다. <br>
 
  ### _**<p align = "center">✨SKILLs</p>**_
 
