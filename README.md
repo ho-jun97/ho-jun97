@@ -25,7 +25,7 @@
 </p>
  
  <br>
-### <p align = "center">✨Studying</p>
+<p align = "center">✨Studying</p>
  
 <p align="center">
 <img src = "https://img.shields.io/badge/-docker-6DB33F?style=flat-square&logo=Docker&logoColor=white">
