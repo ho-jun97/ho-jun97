@@ -34,6 +34,7 @@
  <img src = "https://img.shields.io/badge/-sql-4479A1?style=flat-square&logo=SQL&logoColor=white">
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ho-jun97&show_icons=true&theme=vue)
 
 <!--
 **ho-jun97/ho-jun97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
